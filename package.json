@@ -1,0 +1,20 @@
+{
+  "name": "dockertest",
+  "version": "1.0.0",
+  "description": "Docker Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "keywords": [
+    "dockertest"
+  ],
+  "author": "Uniqsoft",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.0.1"
+  }
+}
